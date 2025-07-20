@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\ITI-Graduation Project\\SSRS\\course_topics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F90896DF-EA9E-1BA3-B78A-6AE9F4BA9EF4}|course_topics\\course_topics.rptproj|D:\\Desktop\\ITI-Graduation Project\\SSRS\\course_topics\\course_topics\\Course Topics.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{F90896DF-EA9E-1BA3-B78A-6AE9F4BA9EF4}|course_topics\\course_topics.rptproj|solutionrelative:course_topics\\Course Topics.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course Topics.rdl [Design]",
+              "DocumentMoniker": "D:\\Desktop\\ITI-Graduation Project\\SSRS\\course_topics\\course_topics\\Course Topics.rdl",
+              "RelativeDocumentMoniker": "course_topics\\Course Topics.rdl",
+              "ToolTip": "D:\\Desktop\\ITI-Graduation Project\\SSRS\\course_topics\\course_topics\\Course Topics.rdl [Design]",
+              "RelativeToolTip": "course_topics\\Course Topics.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-03T19:45:23.79Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
