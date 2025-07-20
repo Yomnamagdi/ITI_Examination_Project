@@ -46,12 +46,4 @@ A full-stack business intelligence solution for managing and analyzing an online
 | `Desktop_App/`      | Source code of the app |
 | `Documentation/`    | All documentation including dictionary, requirements, and diagrams |
 
----
-
-## 📄 License
-
-This project is open-source. You may add your preferred license here.
-
----
-
 
