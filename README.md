@@ -40,7 +40,7 @@ A full-stack business intelligence solution for managing and analyzing an online
 
 | Folder              | Description |
 |---------------------|-------------|
-| `SQL_Backup/`    | Core operational database |
+| `OLTP_Database/`    | Core operational database |
 | `DWH/`              | Data warehouse schema and tools |
 | `PowerBI_Dashboards/` | Dashboards and visuals |
 | `Desktop_App/`      | Source code of the app |
